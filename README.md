@@ -4,7 +4,7 @@
 
 > **Note:** This repository is for demonstration and portfolio purposes only. The source code is proprietary and closed-source.
 >
-> 🏢 **Enterprise Edition:** A tailored version of this application is also available for [Basa (باسا)](https://basa.ir/).
+> 🏢 **Enterprise Edition:** A tailored version of this application is also available for [Basa](https://basa.ir/).
 
 
 🚀 Features:
