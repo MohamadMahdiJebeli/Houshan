@@ -3,6 +3,9 @@
 **🤖 [Houshan - All-in-One AI Assistant](https://houshan.ai)** : The Houshan App is a Flutter-based application designed to give users the fastest and most cost-effective access to leading AI models and tools in a single, unified platform.
 
 > **Note:** This repository is for demonstration and portfolio purposes only. The source code is proprietary and closed-source.
+>
+> 🏢 **Enterprise Edition:** A tailored version of this application is also available for [Basa (باسا)](https://basa.ir/).
+
 
 🚀 Features:
 
