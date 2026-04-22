@@ -7,7 +7,7 @@
 > 🏢 **Enterprise Edition:** A tailored version of this application is also available for [Basa](https://basa.ir/).
 
 
-**🚀 Features:**
+🚀 Features:
 
 - Access a wide range of AI models in one unified space
 - Build and customize your own personalized AI assistants
